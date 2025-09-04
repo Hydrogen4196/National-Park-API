@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Notes_CS_infotech\\Main Projects\\Project 2\\National park api based\\National_Park_1144\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE4C247-5D73-4AF6-82F6-7C6170BCD9A4}|National_Park_1144\\National_Park_1144.csproj|d:\\notes_cs_infotech\\main projects\\project 2\\national park api based\\national_park_1144\\national_park_1144\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DDE4C247-5D73-4AF6-82F6-7C6170BCD9A4}|National_Park_1144\\National_Park_1144.csproj|solutionrelative:national_park_1144\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{509F6C25-AFDF-4FB3-A228-F453CD7AB45C}|NationalPark_1144_mvc\\NationalPark_1144_mvc.csproj|d:\\notes_cs_infotech\\main projects\\project 2\\national park api based\\national_park_1144\\nationalpark_1144_mvc\\views\\trail\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{509F6C25-AFDF-4FB3-A228-F453CD7AB45C}|NationalPark_1144_mvc\\NationalPark_1144_mvc.csproj|solutionrelative:nationalpark_1144_mvc\\views\\trail\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{509F6C25-AFDF-4FB3-A228-F453CD7AB45C}|NationalPark_1144_mvc\\NationalPark_1144_mvc.csproj|d:\\notes_cs_infotech\\main projects\\project 2\\national park api based\\national_park_1144\\nationalpark_1144_mvc\\controllers\\trailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{509F6C25-AFDF-4FB3-A228-F453CD7AB45C}|NationalPark_1144_mvc\\NationalPark_1144_mvc.csproj|solutionrelative:nationalpark_1144_mvc\\controllers\\trailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{509F6C25-AFDF-4FB3-A228-F453CD7AB45C}|NationalPark_1144_mvc\\NationalPark_1144_mvc.csproj|d:\\notes_cs_infotech\\main projects\\project 2\\national park api based\\national_park_1144\\nationalpark_1144_mvc\\models\\trail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{509F6C25-AFDF-4FB3-A228-F453CD7AB45C}|NationalPark_1144_mvc\\NationalPark_1144_mvc.csproj|solutionrelative:nationalpark_1144_mvc\\models\\trail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{509F6C25-AFDF-4FB3-A228-F453CD7AB45C}|NationalPark_1144_mvc\\NationalPark_1144_mvc.csproj|d:\\notes_cs_infotech\\main projects\\project 2\\national park api based\\national_park_1144\\nationalpark_1144_mvc\\wwwroot\\js\\trail.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{509F6C25-AFDF-4FB3-A228-F453CD7AB45C}|NationalPark_1144_mvc\\NationalPark_1144_mvc.csproj|solutionrelative:nationalpark_1144_mvc\\wwwroot\\js\\trail.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{509F6C25-AFDF-4FB3-A228-F453CD7AB45C}|NationalPark_1144_mvc\\NationalPark_1144_mvc.csproj|d:\\notes_cs_infotech\\main projects\\project 2\\national park api based\\national_park_1144\\nationalpark_1144_mvc\\models\\viewmodel\\trailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{509F6C25-AFDF-4FB3-A228-F453CD7AB45C}|NationalPark_1144_mvc\\NationalPark_1144_mvc.csproj|solutionrelative:nationalpark_1144_mvc\\models\\viewmodel\\trailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{509F6C25-AFDF-4FB3-A228-F453CD7AB45C}|NationalPark_1144_mvc\\NationalPark_1144_mvc.csproj|d:\\notes_cs_infotech\\main projects\\project 2\\national park api based\\national_park_1144\\nationalpark_1144_mvc\\views\\trail\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{509F6C25-AFDF-4FB3-A228-F453CD7AB45C}|NationalPark_1144_mvc\\NationalPark_1144_mvc.csproj|solutionrelative:nationalpark_1144_mvc\\views\\trail\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 319,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Notes_CS_infotech\\Main Projects\\Project 2\\National park api based\\National_Park_1144\\National_Park_1144\\appsettings.json",
+              "RelativeDocumentMoniker": "National_Park_1144\\appsettings.json",
+              "ToolTip": "D:\\Notes_CS_infotech\\Main Projects\\Project 2\\National park api based\\National_Park_1144\\National_Park_1144\\appsettings.json",
+              "RelativeToolTip": "National_Park_1144\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T15:10:18.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Trail.cs",
+              "DocumentMoniker": "D:\\Notes_CS_infotech\\Main Projects\\Project 2\\National park api based\\National_Park_1144\\NationalPark_1144_mvc\\Models\\Trail.cs",
+              "RelativeDocumentMoniker": "NationalPark_1144_mvc\\Models\\Trail.cs",
+              "ToolTip": "D:\\Notes_CS_infotech\\Main Projects\\Project 2\\National park api based\\National_Park_1144\\NationalPark_1144_mvc\\Models\\Trail.cs",
+              "RelativeToolTip": "NationalPark_1144_mvc\\Models\\Trail.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T09:50:36.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Upsert.cshtml",
+              "DocumentMoniker": "D:\\Notes_CS_infotech\\Main Projects\\Project 2\\National park api based\\National_Park_1144\\NationalPark_1144_mvc\\Views\\Trail\\Upsert.cshtml",
+              "RelativeDocumentMoniker": "NationalPark_1144_mvc\\Views\\Trail\\Upsert.cshtml",
+              "ToolTip": "D:\\Notes_CS_infotech\\Main Projects\\Project 2\\National park api based\\National_Park_1144\\NationalPark_1144_mvc\\Views\\Trail\\Upsert.cshtml",
+              "RelativeToolTip": "NationalPark_1144_mvc\\Views\\Trail\\Upsert.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAswEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T09:27:31.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TrailVm.cs",
+              "DocumentMoniker": "D:\\Notes_CS_infotech\\Main Projects\\Project 2\\National park api based\\National_Park_1144\\NationalPark_1144_mvc\\Models\\ViewModel\\TrailVm.cs",
+              "RelativeDocumentMoniker": "NationalPark_1144_mvc\\Models\\ViewModel\\TrailVm.cs",
+              "ToolTip": "D:\\Notes_CS_infotech\\Main Projects\\Project 2\\National park api based\\National_Park_1144\\NationalPark_1144_mvc\\Models\\ViewModel\\TrailVm.cs",
+              "RelativeToolTip": "NationalPark_1144_mvc\\Models\\ViewModel\\TrailVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T09:17:31.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "trail.js",
+              "DocumentMoniker": "D:\\Notes_CS_infotech\\Main Projects\\Project 2\\National park api based\\National_Park_1144\\NationalPark_1144_mvc\\wwwroot\\js\\trail.js",
+              "RelativeDocumentMoniker": "NationalPark_1144_mvc\\wwwroot\\js\\trail.js",
+              "ToolTip": "D:\\Notes_CS_infotech\\Main Projects\\Project 2\\National park api based\\National_Park_1144\\NationalPark_1144_mvc\\wwwroot\\js\\trail.js",
+              "RelativeToolTip": "NationalPark_1144_mvc\\wwwroot\\js\\trail.js",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowDEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-08T09:12:51.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrailController.cs",
+              "DocumentMoniker": "D:\\Notes_CS_infotech\\Main Projects\\Project 2\\National park api based\\National_Park_1144\\NationalPark_1144_mvc\\Controllers\\TrailController.cs",
+              "RelativeDocumentMoniker": "NationalPark_1144_mvc\\Controllers\\TrailController.cs",
+              "ToolTip": "D:\\Notes_CS_infotech\\Main Projects\\Project 2\\National park api based\\National_Park_1144\\NationalPark_1144_mvc\\Controllers\\TrailController.cs",
+              "RelativeToolTip": "NationalPark_1144_mvc\\Controllers\\TrailController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwBwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T09:10:02.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Notes_CS_infotech\\Main Projects\\Project 2\\National park api based\\National_Park_1144\\NationalPark_1144_mvc\\Views\\Trail\\Index.cshtml",
+              "RelativeDocumentMoniker": "NationalPark_1144_mvc\\Views\\Trail\\Index.cshtml",
+              "ToolTip": "D:\\Notes_CS_infotech\\Main Projects\\Project 2\\National park api based\\National_Park_1144\\NationalPark_1144_mvc\\Views\\Trail\\Index.cshtml",
+              "RelativeToolTip": "NationalPark_1144_mvc\\Views\\Trail\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T09:07:37.807Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

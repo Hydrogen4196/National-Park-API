@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "National_Park_1144\\National_Park_1144.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "NationalPark_1144_mvc\\NationalPark_1144_mvc.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

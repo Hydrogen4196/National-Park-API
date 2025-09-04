@@ -1,0 +1,173 @@
+[
+  {
+    "ContainingType": "National_Park_1144.Controllers.NationalParkController",
+    "Method": "GetNationalPark",
+    "RelativePath": "api/NationalPark",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "National_Park_1144.Controllers.NationalParkController",
+    "Method": "CreateNationalPark",
+    "RelativePath": "api/NationalPark",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nationalParkDto",
+        "Type": "National_Park_1144.Model.DTO.NpDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "National_Park_1144.Controllers.NationalParkController",
+    "Method": "UpdateNationalPark",
+    "RelativePath": "api/NationalPark",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "npDTO",
+        "Type": "National_Park_1144.Model.DTO.NpDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "National_Park_1144.Controllers.NationalParkController",
+    "Method": "GetNationalPark",
+    "RelativePath": "api/NationalPark/{nationalParkId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nationalParkId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "GetNationalPark"
+  },
+  {
+    "ContainingType": "National_Park_1144.Controllers.NationalParkController",
+    "Method": "DeleteNationalPark",
+    "RelativePath": "api/NationalPark/{nationalParkId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nationalParkId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "National_Park_1144.Controllers.TrailController",
+    "Method": "GetTrails",
+    "RelativePath": "api/trail",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "National_Park_1144.Controllers.TrailController",
+    "Method": "CreateTrail",
+    "RelativePath": "api/trail",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "trailDto",
+        "Type": "National_Park_1144.Model.DTO.TrailDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "National_Park_1144.Controllers.TrailController",
+    "Method": "UpdateTrail",
+    "RelativePath": "api/trail",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "trailDto",
+        "Type": "National_Park_1144.Model.DTO.TrailDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "National_Park_1144.Controllers.TrailController",
+    "Method": "GetTrail",
+    "RelativePath": "api/trail/{trailId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "trailId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "GetTrail"
+  },
+  {
+    "ContainingType": "National_Park_1144.Controllers.TrailController",
+    "Method": "DeleteTrail",
+    "RelativePath": "api/trail/{trailId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "trailId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "National_Park_1144.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[National_Park_1144.WeatherForecast, National_Park_1144, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\NationalPark_1144_mvc.props" />
+</Project>
